@@ -11,8 +11,8 @@
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/yogesh-bhagwani-1128ba281/" target="_blank">
-    <img src="https://www.linkedin.com/in/yogesh-kumar-1128ba281/" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/yogesh-kumar-1128ba281/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="https://x.com/YogeshBhag96317" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
