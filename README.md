@@ -72,6 +72,22 @@
 
 ---
 
+## ⚡ GitHub Stats Overview:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yogesh-Bhagwani&show_icons=true&theme=tokyonight" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogesh-Bhagwani&layout=compact&theme=tokyonight" height="150" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yogesh-Bhagwani&theme=tokyonight" height="150" alt="GitHub Streak Stats" />
+</p>
+
+
+## 📅 Contribution Graph:
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yogesh-Bhagwani&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</p>
+
+
+---
+
 <h3 align="center">✨ Thanks for visiting my profile!</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Yogesh-Bhagwani&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
