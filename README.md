@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yogesh Kumar</h1>
-
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Engineer;Next.js+Learner;Problem+Solver+%7C+Open+Source" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=ServiceNow+Certified+Developer+(CSA+%7C+CAD);Full+Stack+Developer+%7C+MERN+%2B+Next.js;Problem+Solver+%7C+Open+Source" alt="Typing SVG" /></a>
 </p>
-
-<h3 align="center">🚀 Full Stack Developer | MERN Stack | Placement-Focused Software Engineer</h3>
-
+<h3 align="center">🚀 ServiceNow Certified Developer (CSA + CAD) | Full Stack Engineer | Placement-Focused Software Engineer</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/yogesh-kumar-1128ba281/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -18,16 +15,35 @@
 ---
 
 ## 👨‍💻 About Me
+- 🎓 **Final Year Engineering Student** (B.Tech, Computer Engineering) passionate about building scalable web applications and enterprise workflow automation.
+- ✅ **Dual ServiceNow Certified** — System Administrator (CSA) & Application Developer (CAD).
+- 💻 Specialized in the **MERN Stack** (MongoDB, Express, React, Node.js) and **Next.js / TypeScript**.
+- 🛠️ Building on the **Now Platform** — Flow Designer automation, Service Catalog, and CMDB-backed scoped applications.
+- ⚡ Actively sharpening problem-solving skills — **350+ DSA problems solved** on LeetCode & GeeksforGeeks.
+- 🎯 Target Role: **Software Engineer / ServiceNow Developer** at a product or enterprise-platform company.
 
-- 🎓 **3rd Year Engineering Student** passionate about building scalable web applications.
-- 💻 Specialized in the **MERN Stack** (MongoDB, Express, React, Node.js).
-- 🌱 Currently deep-diving into **Next.js, TypeScript, and Advanced UI Frameworks**.
-- ⚡ Actively sharpening problem-solving skills via **DSA for upcoming placements**.
-- 🎯 Target Role: **Software Engineer** at a product-based company.
+---
+
+## 🏆 Certifications
+<p align="left">
+  <img src="https://img.shields.io/badge/ServiceNow-CSA%20Certified-00C487?style=for-the-badge&logo=servicenow&logoColor=white" alt="ServiceNow CSA"/>
+  <img src="https://img.shields.io/badge/ServiceNow-CAD%20Certified-00C487?style=for-the-badge&logo=servicenow&logoColor=white" alt="ServiceNow CAD"/>
+  <img src="https://img.shields.io/badge/Oracle-OCI%20AI%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="OCI AI Foundations"/>
+  <img src="https://img.shields.io/badge/McKinsey-Forward%20Learner-0033A0?style=for-the-badge" alt="McKinsey Forward"/>
+  <img src="https://img.shields.io/badge/Postman-API%20Fundamentals-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+</p>
 
 ---
 
 ## 💻 Tech Stack
+
+### ⚙️ ServiceNow
+<p align="left">
+  <img src="https://img.shields.io/badge/Flow%20Designer-00C487?style=flat-square&logo=servicenow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Service%20Catalog-00C487?style=flat-square&logo=servicenow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CMDB-00C487?style=flat-square&logo=servicenow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/App%20Engine%20Studio-00C487?style=flat-square&logo=servicenow&logoColor=white"/>
+</p>
 
 ### 🌐 Frontend & Core Languages
 <p align="left">
@@ -47,12 +63,10 @@
 ---
 
 ## ⚡ GitHub Stats Overview
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yogesh-Bhagwani&show_icons=true&theme=tokyonight&description_lines_count=1" height="150" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogesh-Bhagwani&layout=compact&theme=tokyonight" height="150" alt="Top Languages"/>
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yogesh-Bhagwani&theme=tokyonight" height="150" alt="GitHub Streak"/>
 </p>
@@ -60,7 +74,6 @@
 ---
 
 ## 📅 Contribution Graph
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yogesh-Bhagwani&theme=tokyo-night&hide_border=true" width="100%" alt="Contribution Graph"/>
 </p>
